@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+- My name is Juan Manuel Fernández
+- 🔭 I’m studying Full-Stack Web development at Digital House: https://www.digitalhouse.com/ar
+- 🌱 I'm learning Javascript - Node.js - Express - MySQL - React
+- 👯 I'm looking forward to collaborating on any project
+- 📫 You can contact me at juanmafc22@gmail.com
+
 
 <!--
 **juanmafc22/juanmafc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
