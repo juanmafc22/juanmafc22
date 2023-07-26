@@ -5,9 +5,6 @@ Soy un apasionado del Web Development: Frontend y Fullstack. Me divierte hacer m
 
 I'm passionate about Web Development: Frontend and Fullstack. Moving pixels about the screen or information between the client/server is my idea of fun :) My creative and flexible approach, combined with strong critical thinking, allows me to tackle any project with initiative and efficiency. I have a good command of Linux environments. I excel at teamwork and also manage my time efficiently when working independently. I am seeking a position as a Frontend or Fullstack Developer where I can apply my skills and creativity. 
 ## Un muestra de mi trabajo | A sample of my work
-### Desarrollo eCommerce | eCommerce development.
-- [title](https://www.example.com)
-### Ejemplo de desarrollo 2 | Example of development 2
-- [title](https://www.example.com)
-### Otro desarrollo | Another development
-- [title](https://www.example.com)
+- Desarrollo eCommerce | eCommerce development > [title](https://www.example.com)
+- Otro ejemplo de desarrollo ! Another dev example > [title](https://www.example.com)
+- One more example | One more exaple > [title](https://www.example.com)
