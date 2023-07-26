@@ -1,23 +1,7 @@
-### Hello! 👋
-
-- My name is Juan Manuel Fernández
-- 🔭 Full-Stack Web developer
-- 🌱 Javascript - Node.js - Express - MySQL - React
-- 👯 Looking forward to collaborating on any project
-- 📫 You can contact me at juanmafc22@gmail.com
-
-
-<!--
-**juanmafc22/juanmafc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Title
+This is just plain text
+## Title 2
+Some more plain text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Aenean aliquam purus in** massa ullamcorper porttitor. Donec a neque magna. Maecenas ac tortor venenatis nunc porta blandit euismod id tellus. Nam mi dui, pretium blandit nunc sed, dignissim fermentum sapien. Maecenas ornare sit amet nunc ut euismod. 
+- [title](https://www.example.com)
+- [title](https://www.example.com)
+- [title](https://www.example.com)
