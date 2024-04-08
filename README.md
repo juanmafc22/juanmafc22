@@ -1,7 +1,3 @@
 # Juan Manuel Fernández
 
-### This is work in progress
-- Hello
-- How
-- Are
-- You?
+### Estudiante de la Tecnicatura de Programación en la UTN.
