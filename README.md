@@ -1,3 +1,3 @@
 # Juan Manuel Fernández
 
-### Estudiante de la Tecnicatura de Programación en la UTN.
+### Estudiante de la carrera de Analista de Sistemas
