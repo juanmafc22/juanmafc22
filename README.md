@@ -6,10 +6,15 @@ Estudiandte de la Tecnicatura de Programación en al [UTN](https://sceu.frba.utn
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernandez-juanmanuel/)
 - 🌎 Buenos Aires, Argentina
 
----
-
 ## 🚀 Skills técnicas
 
 - **Frontend:** JavaScript, React.js, HTML, CSS, Responsive Web Design
 - **Backend:** Node.js, Express, MySQL, MongoDB
 - **Herramientas:** Git, GitHub, Linux, CLI
+
+## 🌐 Idiomas
+
+- Español: Nativo / Bilingüe
+- Inglés: Nativo / Bilingüe
+- Francés: A2
+- Italiano: A2
