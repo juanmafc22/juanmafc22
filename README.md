@@ -10,15 +10,16 @@ Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar
 
 ## 🚀 Mi caja de herramientas (en expansión)
 
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **React** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- **Express** ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- **MySQ**L ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-- **Solidity** ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-- **Git** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-- **Linux** ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+- **JavaScript**: Vanilla JavaScript
+- **React** 
+- **Node.js** 
+- **Express**  
+- **SQL** MySQL - PostreSQL 
+- **MondoDB**
+- **Solidity** 
+- **Git** 
+- **Linux** 
+-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)      
 
 ## 🌐 Idiomas
 
