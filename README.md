@@ -24,6 +24,6 @@ Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar
 ## 🌐 Idiomas
 
 - **Español**: Nativo
-- **Inglés** - Bilingüe (feel free to contact me in English)
-- **Italiano** - Básico
-- **Francés** - Básico
+- **Inglés**: Bilingüe - Bilingual, feel free to contact me in English.
+- **Italiano**: Básico
+- **Francés**: Básico
