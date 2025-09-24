@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juan Manuel Fernández
-### Estudiante de Programación | Desarrollador Web Full Stack (en formación) | Entusiasta de Web3 & Smart Contracts
+### Estudiante de Programación | Desarrollador Web Full Stack (en formación)
 
-Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar/es/). Me estoy formando en desarrollo web full stack, con interés en el ecosistema JavaScript (React, Node.js) y en bases de datos como MongoDB y MySQL. Muy buen manejo del CLI y entornos Linux. Paralelamente, amplío mi formación en Blockchain y Smart Contracts en [ETH-KIPU](https://www.ethkipu.org/es), con el objetivo de construir aplicaciones descentralizadas.
+Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar/es/). Me estoy formando en desarrollo web full stack, con interés en el ecosistema JavaScript (React, Node.js) y en bases de datos como MongoDB y MySQL. Muy buen manejo del CLI y entornos Linux.
 
 ## 📫 Contacto  
 
@@ -16,8 +16,7 @@ Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar
 - **Node.js**
 - **Express** 
 - **SQL**: MySQL - PostreSQL
-- **MongoDB**
-- **Solidity** 
+- **MongoDB** 
 - **Git**
 - **Linux**      
 
@@ -25,5 +24,3 @@ Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar
 
 - **Español**: Nativo
 - **Inglés**: Bilingüe - Bilingual, feel free to contact me in English.
-- **Italiano**: Básico
-- **Francés**: Básico
