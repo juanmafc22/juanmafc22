@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juan Manuel Fernández
-### Estudiante de Programación | Desarrollador Web Full Stack (en formación)
+### Estudiante de Desarrollo de Software
 
-Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar/es/). Me estoy formando en desarrollo web full stack, con interés en el ecosistema JavaScript (React, Node.js) y en bases de datos como MongoDB y MySQL. Muy buen manejo del CLI y entornos Linux.
+Soy estudiante de la Tecnicatura Superior en Desarrollo de Software [ISTEA](https://www.istea.edu.ar/tecnicatura-superior-en-desarrollo-de-software).
 
 ## 📫 Contacto  
 
@@ -10,13 +10,8 @@ Soy estudiante de la Tecnicatura en Programación en la [UTN](https://utn.edu.ar
 
 ## 🚀 Mi caja de herramientas (en expansión)
 
-- **JavaScript**: Vanilla JavaScript
-- **TypeScript**
-- **React** 
-- **Node.js**
-- **Express** 
-- **SQL**: MySQL - PostreSQL
-- **MongoDB** 
+- **JavaScript**: JavaScript
+- **SQL**: MySQL - PostreSQL 
 - **Git**
 - **Linux**      
 
