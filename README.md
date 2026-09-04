@@ -8,8 +8,9 @@
 
 ## 🚀 Mi caja de herramientas (en expansión)
 
-- **JavaScript**: JavaScript
-- **C++**: C++
+- **JavaScript**
+- **C++**
+- **Python**
 - **SQL**: MySQL - PostreSQL 
 - **Git**
 - **Linux**      
