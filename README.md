@@ -9,8 +9,10 @@
 ## 🚀 Mi caja de herramientas (en expansión)
 
 - **JavaScript**
-- **C++**
-- **Python**
+- **ActionScript**
+- **Node**
+- **C#**
+- **PHP**
 - **SQL**: MySQL - PostreSQL 
 - **Git**
 - **Linux**      
@@ -19,3 +21,5 @@
 
 - **Español**: Nativo
 - **Inglés**: Bilingüe - Bilingual, feel free to contact me in English.
+- **Francés**: B2
+- **Italiano**: B1 
