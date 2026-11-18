@@ -11,8 +11,6 @@
 - **JavaScript**
 - **ActionScript**
 - **Node**
-- **C#**
-- **PHP**
 - **SQL**: MySQL - PostreSQL 
 - **Git**
 - **Linux**      
